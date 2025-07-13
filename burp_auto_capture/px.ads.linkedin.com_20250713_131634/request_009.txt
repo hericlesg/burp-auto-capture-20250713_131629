@@ -1,0 +1,17 @@
+POST /wa/ HTTP/2
+Host: px.ads.linkedin.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: *
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 2894
+Origin: https://app.sejaefi.com.br
+Referer: https://app.sejaefi.com.br/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=0
+Te: trailers
+
+{"pids":[5044609],"scriptVersion":230,"time":1752363901484,"domain":"app.sejaefi.com.br","url":"https://app.sejaefi.com.br/pix/fazer-pix/chave","pageTitle":"EfÃ­","websiteSignalRequestId":"b7398587-6d26-a52c-574c-20b64e838499","isTranslated":false,"liFatId":"","liGiant":"","misc":{"psbState":-4},"isLinkedInApp":false,"hem":null,"signalType":"CLICK","href":"","domAttributes":{"elementSemanticType":null,"elementValue":null,"elementType":"button","tagName":"BUTTON","backgroundImageSrc":null,"imageSrc":null,"imageAlt":null,"innerText":"Continuar","elementTitle":null,"cursor":"pointer"},"innerElements":[{"elementSemanticType":"ICON","elementValue":null,"elementType":null,"tagName":"I","backgroundImageSrc":null,"imageSrc":null,"imageAlt":null,"innerText":"","elementTitle":null,"cursor":"pointer"}],"elementCrumbsTree":[{"tagName":"div","nthChild":1,"id":"app","attributes":{"data-v-app":""}},{"tagName":"div","nthChild":0,"id":"app","attributes":{"data-app":""}},{"tagName":"div","nthChild":0,"classes":["layout"],"attributes":{"data-v-965d6dbe":"","data-gtm-iscorporation":"true","data-gtm-modality":"corporation"}},{"tagName":"div","nthChild":1,"classes":["main-content"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"classes":["container-ul","d-flex","py-4"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":1,"classes":["ms-7","w-100"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"attributes":{"data-v-d6cfc80b":"","data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"attributes":{"data-v-d6cfc80b":""}},{"tagName":"div","nthChild":2,"classes":["gap-7","mt-5","the-content"],"attributes":{"data-v-d6cfc80b":""}},{"tagName":"section","nthChild":0,"classes":["position-relative","w-100"],"attributes":{"data-v-d6cfc80b":""}},{"tagName":"main","nthChild":1},{"tagName":"div","nthChild":0},{"tagName":"div","nthChild":0,"attributes":{"data-v-92326518":"","data-testid":"insert-key-step-container"}},{"tagName":"div","nthChild":0,"classes":["cd-steps-card","g-card","rounded-2","w-100"],"attributes":{"data-v-88c559e8":"","data-v-92326518":"","data-test-id":"GCard"}},{"tagName":"div","nthChild":2,"classes":["cd-steps-card-footer","g-card-footer","p-0"],"attributes":{"data-v-88c559e8":"","data-test-id":"GCardFooter"}},{"tagName":"div","nthChild":0,"classes":["border-overlay","border-top","d-flex"]},{"tagName":"div","nthChild":1,"classes":["next-button-tooltip","w-100"],"attributes":{"data-v-b32528c7":""}},{"tagName":"div","nthChild":0,"classes":["g-tooltip-trigger","w-100"],"attributes":{"data-v-b32528c7":""}},{"tagName":"button","nthChild":0,"classes":["align-items-center","bg-secondary-200","btn-secondary-200","d-flex","g-stepper-button","justify-content-center","px-3","rounded-bottom-end","rounded-bottom-end","stepper-text-white","w-100","w-100"],"attributes":{"data-v-255a34ac":""}}],"isFilteredByClient":false}
