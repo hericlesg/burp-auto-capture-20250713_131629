@@ -1,0 +1,15 @@
+HTTP/2 302 Found
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Date: Sun, 13 Jul 2025 16:16:18 GMT
+Set-Cookie: fr=0YF2FlSMJkm9p0HwW..Boc9vS...1.0.Boc9vS.; expires=Saturday, 11-Oct-2025 16:16:18 GMT; path=/; domain=.facebook.com; HttpOnly; secure
+Location: /tr/?redirect=0
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cross-Origin-Resource-Policy: cross-origin
+Content-Type: text/plain
+Content-Length: 0
+Server: proxygen-bolt
+X-Fb-Connection-Quality: EXCELLENT; q=0.9, rtt=23, rtx=0, c=10, mss=1392, tbw=2883, tp=-1, tpl=-1, uplat=2, ullat=2
+Alt-Svc: h3=":443"; ma=86400
+
