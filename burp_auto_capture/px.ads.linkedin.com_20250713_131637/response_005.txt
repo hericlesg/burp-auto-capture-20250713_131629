@@ -1,0 +1,16 @@
+HTTP/2 204 No Content
+Vary: Origin
+Set-Cookie: bcookie="v=2&7ae07601-73b7-4eae-8172-5609c847ef6d"; domain=.linkedin.com; Path=/; Secure; Expires=Sun, 12-Jul-2026 23:38:24 GMT; SameSite=None
+Set-Cookie: lidc="b=VGST03:s=V:r=V:a=V:p=V:g=3545:u=1:x=1:i=1752363504:t=1752449904:v=2:sig=AQEiF9vTSlRt60Yrd3y-L2xH5jFn1hv0"; Expires=Sun, 13 Jul 2025 23:38:24 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure
+Linkedin-Action: 1
+Access-Control-Allow-Origin: https://app.sejaefi.com.br
+Access-Control-Allow-Credentials: true
+X-Li-Fabric: prod-lva1
+X-Li-Pop: afd-prod-lva1-x
+X-Li-Proto: http/2
+X-Li-Uuid: AAY5w+wzp8kiYhE03YlJqA==
+X-Cache: CONFIG_NOCACHE
+Alt-Svc: h3=":443"; ma=86400
+X-Msedge-Ref: Ref A: 3D636090ACD2416AAD606CE4B27A6D59 Ref B: GRU30EDGE1218 Ref C: 2025-07-12T23:38:24Z
+Date: Sat, 12 Jul 2025 23:38:24 GMT
+
