@@ -1,0 +1,17 @@
+POST /wa/ HTTP/2
+Host: px.ads.linkedin.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: *
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 356
+Origin: https://app.sejaefi.com.br
+Referer: https://app.sejaefi.com.br/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=0
+Te: trailers
+
+{"pids":[5044609],"scriptVersion":230,"time":1752363428694,"domain":"app.sejaefi.com.br","url":"https://app.sejaefi.com.br/pix/fazer-pix/chave","pageTitle":"EfÃ­","websiteSignalRequestId":"6db15a0f-aeae-4ff1-b7f4-233825c9e159","isTranslated":false,"liFatId":"","liGiant":"","misc":{"psbState":-4},"isLinkedInApp":false,"hem":null,"signalType":"PAGE_VISIT"}
