@@ -1,0 +1,121 @@
+POST /tr/ HTTP/2
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/form-data; boundary=----geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Length: 3341
+Referer: https://m.vaidebet.bet.br/
+Origin: https://m.vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="id"
+
+932982895435244
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="dl"
+
+https://m.vaidebet.bet.br/ptb
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="rl"
+
+https://m.vaidebet.bet.br/ptb
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="if"
+
+false
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="ts"
+
+1752423392189
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"login-button","destination":"","id":"","imageUrl":"","innerText":"Login","numChildButtons":0,"tag":"div","type":null}
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Login
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[]
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Vaidebet: A casa de apostas lÃ­der do mercado - Vai de bet"}
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="sw"
+
+2560
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="sh"
+
+1080
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="v"
+
+2.9.215
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="r"
+
+stable
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="a"
+
+tmSimo-GTM-WebTemplate
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="ec"
+
+2
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="o"
+
+4126
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="fbp"
+
+fb.2.1752362541477.92410640379217825
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="ler"
+
+other
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="eid"
+
+ob3_plugin-set_ebd826e407fe56e56fe700a81da6ccced3f12eaf6785ffc26887fc38f649c7e9
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="it"
+
+1752423377156
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="coo"
+
+false
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="es"
+
+automatic
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="tm"
+
+3
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="exp"
+
+q1
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b
+Content-Disposition: form-data; name="rqm"
+
+SB
+------geckoformboundaryaec82d1b74cfc89878e046982cc79c4b--
